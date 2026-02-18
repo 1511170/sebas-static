@@ -2,6 +2,9 @@
 
 Static export of **Sebas.co** generated with [Astro](https://astro.build).
 
+- **Repo:** [github.com/1511170/sebas-static](https://github.com/1511170/sebas-static)
+- **Branch:** `main` (default for deploy)
+
 ## Contents
 
 - **Home** – `/` (index.html)
